@@ -47,6 +47,11 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 * [Achieving concurrency in Go](https://medium.com/rungo/achieving-concurrency-in-go-3f84cbf870ca)
 * [Concurrency patterns from the Go in Action book](https://github.com/goinaction/code/tree/master/chapter7/patterns)
+* [Rethinking Classical Concurrency Patterns](https://drive.google.com/file/d/1nPdvhB0PutEJzdCq5ms6UI58dp50fcAN/view)
+* [Advanced Go Concurrency Patterns](https://www.youtube.com/watch?v=QDDwwePbDtw)
+* [Go advanced concurrency patterns: part 1](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/)
+* [Go advanced concurrency patterns: part 2](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/)
+* [Go advanced concurrency patterns: part 3](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/)
 
 ## Internals
 
