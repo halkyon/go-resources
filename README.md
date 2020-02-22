@@ -1,7 +1,8 @@
 # Go reading
 
-A collection of links to various articles and resources on the Go programming language that I find really useful.
-If you have any favourite articles or links you'd like to contribute, feel free to open a pull request! :)
+A collection of links to various articles and resources on the Go programming language I find useful.
+
+If you have any favourite articles or links you'd like to contribute, feel free to open a pull request!
 
 ## Blogs
 
@@ -10,15 +11,18 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Go, the unwritten parts](https://rakyll.org/)
 * [Jon Calhoun](https://www.calhoun.io/)
 
-
 ## Books
 
 * [Go in Action](https://www.manning.com/books/go-in-action), [source code for examples from book](https://github.com/goinaction/code)
 
+## Podcasts
+
+* [Gotime](https://changelog.com/gotime)
+
 ## Training
 
 * [Ardan Labs Go Training](https://www.ardanlabs.com/training/) [training class material](https://github.com/ardanlabs/gotraining)
-* [Gophercises](https://gophercises.com/#signup) - 
+* [Gophercises](https://gophercises.com/#signup) 
 
 ## Algorithms
 
@@ -26,11 +30,13 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 ## Best practises
 
+* [Practical Go](https://dave.cheney.net/practical-go)
 * [Go for Cloud](https://rakyll.org/go-cloud/)
-* [Clear is better than clever](https://dave.cheney.net/2019/07/09/clear-is-better-than-clever)
-* [Be wary of functions which take several parameters of the same type](https://dave.cheney.net/2019/09/24/be-wary-of-functions-which-take-several-parameters-of-the-same-type)
-* [Don't force allocations on the callers of your API](https://dave.cheney.net/2019/09/05/dont-force-allocations-on-the-callers-of-your-api)
 * [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer)
+
+## Performance
+
+* [go-perfbook](https://github.com/dgryski/go-perfbook)
 
 ## Interfaces
 
