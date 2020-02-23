@@ -33,6 +33,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Practical Go](https://dave.cheney.net/practical-go)
 * [Go for Cloud](https://rakyll.org/go-cloud/)
 * [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer)
+* [Code: Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 
 ## Performance
 
