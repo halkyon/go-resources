@@ -14,6 +14,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 ## Books
 
 * [Go in Action](https://www.manning.com/books/go-in-action), [source code for examples from book](https://github.com/goinaction/code)
+* [Concurrency in Go](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
 
 ## Podcasts
 
