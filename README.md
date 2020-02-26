@@ -11,6 +11,10 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Go, the unwritten parts](https://rakyll.org/)
 * [Jon Calhoun](https://www.calhoun.io/)
 
+## Newsletters
+
+* [Golang Weekly](https://www.golangweekly.com/)
+
 ## Books
 
 * [Go in Action](https://www.manning.com/books/go-in-action), [source code for examples from book](https://github.com/goinaction/code)
