@@ -35,6 +35,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 ## Best practises
 
+* [Context Package Semantics in Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
 * [Practical Go](https://dave.cheney.net/practical-go)
 * [Go for Cloud](https://rakyll.org/go-cloud/)
 * [Why you shouldn't use func main in Go](https://pace.dev/blog/2020/02/12/why-you-shouldnt-use-func-main-in-golang-by-mat-ryer)
