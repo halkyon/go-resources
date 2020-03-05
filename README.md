@@ -35,6 +35,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 ## Best practises
 
+* [SOLID Go Design](https://www.youtube.com/watch?v=zzAdEt3xZ1M)
 * [Context Package Semantics in Go](https://www.ardanlabs.com/blog/2019/09/context-package-semantics-in-go.html)
 * [Cancellation, Context, and Plumbing by Sameer Ajmani](https://vimeo.com/115309491)
 * [Practical Go](https://dave.cheney.net/practical-go)
