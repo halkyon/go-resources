@@ -48,6 +48,10 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 * [go-perfbook](https://github.com/dgryski/go-perfbook)
 
+## First class functions
+
+* [Do not fear first class functions](https://www.youtube.com/watch?v=5buaPyJ0XeQ)
+
 ## Interfaces
 
 * [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
