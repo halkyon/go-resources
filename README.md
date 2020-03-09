@@ -4,6 +4,10 @@ A collection of links to various articles and resources on the Go programming la
 
 If you have any favourite articles or links you'd like to contribute, feel free to open a pull request!
 
+## Other lists
+
+* [Awesome Go](https://awesome-go.com/)
+
 ## Blogs
 
 * [Ardan Labs](https://www.ardanlabs.com/blog/)
