@@ -32,6 +32,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 * [Ardan Labs Go Training](https://www.ardanlabs.com/training/) [training class material](https://github.com/ardanlabs/gotraining)
 * [Gophercises](https://gophercises.com/#signup) 
+* [JustForFunc](https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw)
 
 ## Algorithms
 
