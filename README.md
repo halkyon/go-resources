@@ -6,6 +6,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 ## Other lists
 
+* [Ardan Labs Go Training reading](https://github.com/ardanlabs/gotraining/tree/master/reading)
 * [Awesome Go](https://awesome-go.com/)
 
 ## Blogs
