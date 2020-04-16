@@ -73,7 +73,10 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Go advanced concurrency patterns: part 1](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-1/)
 * [Go advanced concurrency patterns: part 2](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/)
 * [Go advanced concurrency patterns: part 3](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/)
+* [Scheduling in Go: Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
 
 ## Internals
 
+* [Scheduling in Go: Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
+* [Scheduling in Go: Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
 * [Go compiler instrinsics](https://dave.cheney.net/2019/08/20/go-compiler-intrinsics)
