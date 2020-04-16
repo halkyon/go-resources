@@ -79,4 +79,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 
 * [Scheduling in Go: Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 * [Scheduling in Go: Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
+* [Garbage Collection in Go: Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
+* [Garbage Collection in Go: Part II - GC Traces](https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html)
+* [Garbage Collection in Go: Part III - GC Pacing](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html)
 * [Go compiler instrinsics](https://dave.cheney.net/2019/08/20/go-compiler-intrinsics)
