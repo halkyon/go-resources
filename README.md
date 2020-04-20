@@ -75,6 +75,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Go advanced concurrency patterns: part 2](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-2-timers/)
 * [Go advanced concurrency patterns: part 3](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-3-channels/)
 * [Scheduling in Go: Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
+* [The Behavior of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 
 ## Internals
 
