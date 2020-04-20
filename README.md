@@ -77,8 +77,11 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Scheduling in Go: Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
 * [The Behavior of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 
-## Internals
+## Internals, fundamentals
 
+* [Language Mechanics on Stacks and Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
+* [Language Mechnaics on Escape Analysis](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-escape-analysis.html)
+* [Escape Analysis Flaws](https://www.ardanlabs.com/blog/2018/01/escape-analysis-flaws.html)
 * [Scheduling in Go: Part I - OS Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html)
 * [Scheduling in Go: Part II - Go Scheduler](https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html)
 * [Garbage Collection in Go: Part I - Semantics](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html)
