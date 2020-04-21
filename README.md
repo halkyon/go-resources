@@ -77,6 +77,10 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Scheduling in Go: Part III - Concurrency](https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html)
 * [The Behavior of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 
+## Profiling
+
+* [Language Mechanics on Memory Profiling](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html)
+
 ## Internals, fundamentals
 
 * [Language Mechanics on Stacks and Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
