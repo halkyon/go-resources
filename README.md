@@ -39,6 +39,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 ## Algorithms
 
 * [Let's Learn Algorithms](https://www.calhoun.io/lets-learn-algorithms/)
+* [Ardan Lab's Go Training](https://github.com/ardanlabs/gotraining/tree/master/topics/go/algorithms)
 
 ## Best practises
 
@@ -51,9 +52,15 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 * [Code: Align the happy path to the left edge](https://medium.com/@matryer/line-of-sight-in-code-186dd7cdea88)
 * [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 
+## Misc
+
+* [SliceTricks](https://github.com/golang/go/wiki/SliceTricks)
+
 ## Performance
 
 * [go-perfbook](https://github.com/dgryski/go-perfbook)
+* [Inlining optimisations in Go](https://dave.cheney.net/2020/04/25/inlining-optimisations-in-go)
+* [Mid-stack inlining in Go](https://dave.cheney.net/2020/05/02/mid-stack-inlining-in-go)
 
 ## First class functions
 
