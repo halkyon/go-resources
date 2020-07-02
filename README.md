@@ -23,6 +23,7 @@ If you have any favourite articles or links you'd like to contribute, feel free 
 ## Books
 
 * [Go in Action](https://www.manning.com/books/go-in-action), [source code for examples from book](https://github.com/goinaction/code)
+* [Go 101](https://go101.org/article/101.html)
 * [Concurrency in Go](https://www.amazon.com/Concurrency-Go-Tools-Techniques-Developers/dp/1491941197)
 * [Writing an Interpreter in Go](https://interpreterbook.com/)
 
