@@ -1,6 +1,6 @@
 # Go resources
 
-A collection of links to various articles and resources on the Go programming language I find useful.
+A collection of links to various resources (articles, blogs, etc) on the Go programming language I find useful.
 
 ## Other lists
 
