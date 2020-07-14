@@ -2,8 +2,6 @@
 
 A collection of links to various articles and resources on the Go programming language I find useful.
 
-If you have any favourite articles or links you'd like to contribute, feel free to open a pull request!
-
 ## Other lists
 
 * [Ardan Labs Go Training reading](https://github.com/ardanlabs/gotraining/tree/master/reading)
