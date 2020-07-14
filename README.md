@@ -71,6 +71,7 @@ A collection of links to various resources (articles, blogs, etc) on the Go prog
 * [Go Data Structures: Interfaces](https://research.swtch.com/interfaces)
 * [How to use interfaces in Go](https://jordanorelli.com/post/32665860244/how-to-use-interfaces-in-go)
 * [Methods, Interfaces and Embedded Types in Go](https://www.ardanlabs.com/blog/2014/05/methods-interfaces-and-embedded-types.html)
+* [Type Embedding](https://go101.org/article/type-embedding.html)
 
 ## Concurrency
 
