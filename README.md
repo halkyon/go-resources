@@ -96,6 +96,7 @@ A collection of links to various resources (articles, blogs, etc) on the Go prog
 * [Go Slices: usage and internals](https://blog.golang.org/slices-intro)
 * [Go maps in action](https://blog.golang.org/maps)
 * [Error handling and Go](https://blog.golang.org/error-handling-and-go)
+ * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [The Go Programming Language Specification](https://golang.org/ref/spec)
 * [Language Mechanics on Stacks and Pointers](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-stacks-and-pointers.html)
 * [Language Mechnaics on Escape Analysis](https://www.ardanlabs.com/blog/2017/05/language-mechanics-on-escape-analysis.html)
