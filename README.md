@@ -88,6 +88,7 @@ A collection of links to various resources (articles, blogs, etc) on the Go prog
 
 ## Profiling
 
+* [Profiling Go Programs](https://blog.golang.org/pprof)
 * [Language Mechanics on Memory Profiling](https://www.ardanlabs.com/blog/2017/06/language-mechanics-on-memory-profiling.html)
 
 ## Internals, fundamentals
