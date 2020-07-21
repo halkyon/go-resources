@@ -109,3 +109,4 @@ A collection of links to various resources (articles, blogs, etc) on the Go prog
 * [Garbage Collection in Go: Part III - GC Pacing](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html)
 * [Go compiler instrinsics](https://dave.cheney.net/2019/08/20/go-compiler-intrinsics)
 * [Go Assembly by Example](https://davidwong.fr/goasm/)
+* [Go low-level calling convention on x86_64](https://dr-knz.net/go-calling-convention-x86-64.html)
