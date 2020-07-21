@@ -108,3 +108,4 @@ A collection of links to various resources (articles, blogs, etc) on the Go prog
 * [Garbage Collection in Go: Part II - GC Traces](https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html)
 * [Garbage Collection in Go: Part III - GC Pacing](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html)
 * [Go compiler instrinsics](https://dave.cheney.net/2019/08/20/go-compiler-intrinsics)
+* [Go Assembly by Example](https://davidwong.fr/goasm/)
